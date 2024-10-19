@@ -1,0 +1,6 @@
+Tarea 01 del modulo de Programación de Servicios y Procesos.
+Alumna. Cherry Reynoso Catalán.
+
+Esto es un ejemplo de argumento.
+Para poder probar el proyecto, debemos pasar un argumento. 
+En este caso, el argumento debe ser un archivo de .txt para abrirse en Notepad.
